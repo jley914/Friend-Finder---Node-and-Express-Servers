@@ -1,0 +1,48 @@
+body{
+    background-image: url(https://d2mdn1s78c9h86.cloudfront.net/wp-content/uploads/2015/07/intl-day-of-friendship_723x542-690x518.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.modal-body{
+    background-color: darkred;
+
+}
+
+#matchImg{
+    background-color: darkred;
+}
+
+.jumbotron{
+    background-color: darkred;
+    color: white;
+    opacity: .75;
+    margin-top:20;
+
+
+}
+
+#submit{
+    background: darkred;
+
+}
+
+#jumbo_h2{
+    color: white;
+
+}
+
+.btn-primary{
+    color: white;
+ 
+
+
+}
+.panel-title{
+    color: darkred;
+    
+}
+
