@@ -4,7 +4,6 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-
 }
 
 .modal-body{
@@ -13,7 +12,7 @@ body{
 }
 
 #matchImg{
-    background-color: darkred;
+    background-color: darkred
 }
 
 .jumbotron{
